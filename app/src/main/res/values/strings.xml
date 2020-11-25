@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="app_name">ViewPager2Example</string>
+  <string name="title_obIten_1">Inteligente</string>
+  <string name="title_obIten_2">Persistente</string>
+  <string name="title_obIten_3">Corajosa</string>
+  <string name="title_obIten_4">Amável</string>
+  <string name="title_obIten_5">Respeitosa</string>
+  <string name="title_obIten_6">Engraçada</string>
+  <string name="title_obIten_7">Linda</string>
+
+  <string name="desc_obItem_1">
+    Tem facilidade de aprender em qualquer contexto da vida cotidiana.
+  </string>
+  <string name="desc_obItem_2">
+    Refere-se à constância nas ações para poder atingir os objetivos propostos.
+    As pessoas com essa qualidade não se deixam vencer pelas adversidades que possam surgir.
+  </string>
+  <string name="desc_obItem_3">
+    Refere-se ao vigor que uma pessoa tem ao executar uma ação.
+    As pessoas com essa qualidade conseguem superar seus medos e agem com decisão e firmeza.
+  </string>
+  <string name="desc_obItem_4">
+    Que merece amor ou consideração. Que expressa cortesia e que demonstra simpatia ou gentileza.
+
+  </string>
+  <string name="desc_obItem_5" tools:ignore="Typos">
+    Pessoa com essa qualidade reconhece que suas diferenças com outras pessoas
+    não são nem melhores nem piores. Essa é uma qualidade essencial para a vida social de um
+    indivíduo.
+
+  </string>
+  <string name="desc_obItem_6">
+    Capacidade de obter o lado divertido e espalhar alegria para os outros.
+
+  </string>
+  <string name="desc_obItem_7">
+    Sim, elá é simplesmente maravilhosa
+  </string>
+</resources>
