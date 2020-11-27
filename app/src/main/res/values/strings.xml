@@ -1,5 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <string name="app_name">ViewPager2Example</string>
+  <string name="app_name">App da Fernanda</string>
   <string name="title_obIten_1">Inteligente</string>
   <string name="title_obIten_2">Persistente</string>
   <string name="title_obIten_3">Corajosa</string>
@@ -9,31 +9,34 @@
   <string name="title_obIten_7">Linda</string>
 
   <string name="desc_obItem_1">
-    Tem facilidade de aprender em qualquer contexto da vida cotidiana.
+    Você tem um ótimo conhecimento acerca de tudo, pois é autossuficiente e sempre
+    está ensinando aquilo que aprendeu!
+
   </string>
   <string name="desc_obItem_2">
-    Refere-se à constância nas ações para poder atingir os objetivos propostos.
-    As pessoas com essa qualidade não se deixam vencer pelas adversidades que possam surgir.
+    Você não desiste dos seus objetivos e sua atitude se fortalece com as dificuldades
+    encontradas ao longo do caminho.
   </string>
   <string name="desc_obItem_3">
-    Refere-se ao vigor que uma pessoa tem ao executar uma ação.
-    As pessoas com essa qualidade conseguem superar seus medos e agem com decisão e firmeza.
+    Sim, você é muito corajosa e sempre será!
+    Age com descisão e vigor perante situações complicadas.
+    Luta com medo? Sim, pois é um ato ainda mais corajoso.
   </string>
   <string name="desc_obItem_4">
-    Que merece amor ou consideração. Que expressa cortesia e que demonstra simpatia ou gentileza.
+    Sim, é verdade! Por isso, você merece todo amor, consideração,
+    cortesia, simpatia e gentileza. Nunca menos do que isso.
 
   </string>
   <string name="desc_obItem_5" tools:ignore="Typos">
-    Pessoa com essa qualidade reconhece que suas diferenças com outras pessoas
-    não são nem melhores nem piores. Essa é uma qualidade essencial para a vida social de um
-    indivíduo.
-
+    Você é uma amiga para todas as horas e possui uma empatia que poucos têm.
+    Sempre reconhecendo as qualidades e respeitando as difereças das pessoas a sua
+    volta, nunca se julga melhor ou pior do que ninguém!
   </string>
   <string name="desc_obItem_6">
-    Capacidade de obter o lado divertido e espalhar alegria para os outros.
-
+    Seu humor inconfundível espalha alegria e risos para todos.
+    Acredite, é um privilegio estar em contato com o seu "rancinho"!
   </string>
   <string name="desc_obItem_7">
-    Sim, elá é simplesmente maravilhosa
+    Sim, você é simplesmente MARAVILHOSA!
   </string>
 </resources>

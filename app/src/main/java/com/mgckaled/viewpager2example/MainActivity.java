@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     private OnboardingAdapter onboardingAdapter;
     private LinearLayout layoutOnboardingIndicators;
+    private TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -25,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().hide(); // Hide toolbar
 
         layoutOnboardingIndicators = findViewById(R.id.layoutOnboardingIndicators);
+        textView = findViewById(R.id.textView);
 
         setupOnboardingItens();
 
@@ -45,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
     /* List of views /Onboarding itens -> SETUP MAIN CONTENT  */
     private void setupOnboardingItens(){
+
         List<OnboardingItem> onboardingItems = new ArrayList<>();
 
         // FIRST ITEM
